@@ -1,4 +1,4 @@
-package graphql4j.springframework.graphql.type;
+package graphql4j.springframework.graphql.stereotype;
 
 import org.springframework.stereotype.Component;
 
