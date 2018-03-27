@@ -1,5 +1,5 @@
-group 'graphql4j.springframework'
-version = '2018.1.3-SNAPSHOT'
+group = "$group"
+version = "$version"
 
 apply plugin: 'java'
 apply plugin: 'groovy'
